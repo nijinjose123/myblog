@@ -1,6 +1,6 @@
 """Learning and creating my own blog"""
 
-from app import applicaton
+from app import application
 
 
 # notes = {
